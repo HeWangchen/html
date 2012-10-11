@@ -1,0 +1,83 @@
+/* c1_center_words */
+
+a{
+	text-decoration:none;
+}
+
+#c1_c_div1{
+	width:340px;
+	height:74px;
+	border-bottom:1px dotted;
+	padding:0;
+}
+.c1_title{
+	font-size: 16px;
+	color:#336699;
+	padding-top:10px;
+}
+.c1_word_content{
+	font-size:12px;
+	padding-top:10px;
+	padding-bottom:5px;
+}
+
+#c1_c_div2{
+	width:340px;
+	height:93px;
+	border-bottom:1px dotted;
+	padding:0;
+}
+#c1_c_div3{
+	width:340px;
+	height:93px;
+	border-bottom:1px dotted;
+	padding:0;
+}
+#c1_c_div4{
+	width:340px;
+	height:93px;
+	border-bottom:1px dotted;
+	padding:0;
+}
+#c1_c_div5{
+	width:340px;
+	height:94px;
+	padding:0;
+}
+
+.c2_top_l_c_div{
+	color:#336699;
+	font-size:12px;
+	height:22px
+}
+
+.c2_top_l_c_date{
+	color:gray;
+	font-size:12px;
+	height:22px
+}
+
+.c2_b_l_word{
+	font-size: 12px;
+	width:240px;
+	height:20px;
+}
+
+.c2_b_l_date{
+	font-size: 12px;
+	width:60px;
+	height:20px;
+}
+
+.c2_b_r_t{
+	font-size: 12px;
+	width:380px;
+	height:17px;
+}
+
+.c2_b_r_t_date{
+	font-size: 12px;
+	width:70px;
+	height:17px;
+	color: gray;
+}

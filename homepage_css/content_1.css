@@ -1,0 +1,155 @@
+#content_1{
+	margin-top:12px;
+	width:988px;
+	height:483px;
+}
+
+#c1_left{
+	float:left;
+	width:303px;
+	height:483px;
+}
+#c1_left_body{
+	height:453px;
+	width:303px;
+}
+
+#c1_left_head{
+	width:303px;
+	height:30px;
+	background-image:url(../homepage_image/1P/c1_left_01.jpg);
+}
+
+#c1_center{
+	float:left;
+	width:340px;
+	height:483px;
+	margin-left:18px;
+	margin-right:18px;
+}
+
+#c1_center_head{
+	height:32px;
+	width:340px;
+	background-image:url(../homepage_image/1P/c1_center_01.jpg);
+}
+
+#c1_center_body{
+	width:340px;
+	height:451px;
+}
+
+#c1_right{
+	float:left;
+	width:309px;
+	height:483px;
+}
+
+#c1_right_top{
+	height:152px;
+	width:307px;
+}
+
+#c1_right_center{
+	margin-top:13px;
+	height:152px;
+	width:307px;
+}
+
+#c1_right_bottom{
+	margin-top:14px;
+	height:151px;
+	width:307px;
+}
+
+#c1_right_t_head{
+	height:33px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_t_head.jpg);
+}
+#c1_right_t_body{
+	height:119px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_t_body.jpg);
+}
+
+#submit_left{
+	height:50px;
+	width:120px;
+	float:left;
+	margin-top:15px;
+}
+
+#username{
+	width:70px;
+	height:20px;
+	margin-left:30px;
+}
+#password{
+	width:70px;
+	height:20px;
+	margin-left:30px;
+	margin-top:10px;
+}
+
+#username_t{
+	width:100px;
+	height:20px;
+}
+#password_t{
+	width:100px;
+	height:20px;
+	margin-top:10px;
+}
+
+#submit_right{
+	height:50px;
+	width:177px;
+	float:left;
+	margin-top:15px;
+}
+
+#submit_bottom{
+	margin-top:5px;
+	height:49px;
+	width:307px;
+	float:left;
+}
+
+#submit{
+	float:left;
+	width:100px;
+	height:30px;
+	margin-top:10px;
+	margin-left:50px;
+}
+
+#regist{
+	float:left;
+	width:127px;
+	height:30px;
+	margin-top:10px;
+	margin-left:20px;
+}
+#c1_right_c_head{
+	height:33px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_c_head.jpg);
+}
+#c1_right_c_body{
+	height:119px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_c_body.jpg);
+}
+
+#c1_right_b_head{
+	height:33px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_b_head.jpg);
+}
+
+#c1_right_b_body{
+	height:118px;
+	width:307px;
+	background-image:url(../homepage_image/1P/c1_right_b_body.jpg);
+}

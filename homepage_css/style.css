@@ -1,0 +1,51 @@
+﻿/**************************************************
+ * 手风琴效果样式
+ * Download by http://www.codefans.net
+ * 30.6.2008
+ **************************************************
+ * msn:danxinju@hotmail.com
+ * author:xj.d
+ **************************************************/
+.panel {	/*版面样式*/
+	width:239px;
+	font-size:14px;
+}
+.panel h3 {		/*标题样式*/
+	height:27px;
+	padding-left:10px;
+	padding-top:5px;
+	margin:0;
+	font-weight:bold;
+	line-height:24px;
+	font-size:20px;
+	cursor:pointer;
+}
+.panel div {	/*内容样式*/
+	margin-left:0px;
+	border:0px solid #E8E8E8;
+	border-bottom:0px solid #fff;
+	overflow:hidden;
+	background:#FCFCFC;
+}
+.gray-top {		/*顶部未展开*/
+	background:url(../homepage_image/leader/1.jpg);
+}
+.gray-bottom {	/*底部未展开*/
+	background:url(../homepage_image/leader/4.jpg);
+}
+.gray {		/*中部未展开*/
+	background:url(../homepage_image/leader/2.jpg);
+}
+.deep-top {		/*顶部已展开*/
+	background:url(../homepage_image/leader/1_1.jpg);
+	
+}
+.deep-bottom {	/*底部已展开*/
+	background:url(../homepage_image/leader/4_1.jpg);
+}
+.deep {		/*中部已展开*/
+	background:url(../homepage_image/leader/2_1.jpg);
+}
+.panel-bottom {	/*最后一列向上浮动20个像素*/
+	margin-bottom:-33px;
+}

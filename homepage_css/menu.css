@@ -1,0 +1,112 @@
+ul{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+	text-align:center; 
+	display: none;
+	position:relative;
+	top:38px;	
+}
+
+
+ul li a{
+	color:black;
+}
+#menulist_2 li{
+	padding-top:10px;
+	width:84px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_3 li{
+	padding-top:10px;
+	width:150px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_4 li{
+	padding-top:10px;
+	width:84px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_5 li{
+	padding-top:10px;
+	width:84px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_6 li{
+	padding-top:10px;
+	width:120px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_7 li{
+	padding-top:10px;
+	width:84px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_8 li{
+	padding-top:10px;
+	width:90px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_9 li{
+	padding-top:10px;
+	width:84px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_10 li{
+	padding-top:10px;
+	width:150px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_11 li{
+	padding-top:10px;
+	width:100px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
+
+#menulist_12 li{
+	padding-top:10px;
+	width:100px;
+	height:24px;
+	border:1px #EFECCA solid;
+	margin:0;
+	background-image:url(../homepage_image/head/menu_2.jpg);
+}
